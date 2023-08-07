@@ -1,0 +1,6 @@
+.todo_list>li{
+    border: 1px dotted grey;
+    padding: 1rem;
+    margin: 2rem 3rem;
+    list-style-type: none;
+}
